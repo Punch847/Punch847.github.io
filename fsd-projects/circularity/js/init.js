@@ -36,7 +36,7 @@ var circles = [];
         // TODO 3 : Call the drawCircle() function
 
         // TODO 7 : Use a loop to create multiple circles
-for (var i = 0; i < 100; i++) {
+for (var i = 0; i < 5; i++) {
 drawCircle();
 }
 
